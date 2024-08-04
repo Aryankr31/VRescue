@@ -1,3 +1,1 @@
-# website made by team VRescue for hackEDCode 2.0
-## Abhinav, Aryan, Harsh
- ar/vr solution for CBrN rescue training for NDRF officials
+VRescue Web Portal Dashboard for XR Based Training.
